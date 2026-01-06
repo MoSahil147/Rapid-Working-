@@ -1,0 +1,6 @@
+pymupdf
+rapidocr-onnxruntime
+opencv-python
+pillow
+numpy
+tqdm
